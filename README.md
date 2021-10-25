@@ -1,2 +1,2 @@
 # MyPowershellProfile
- Rice gang
+ Requires https://github.com/JanDeDobbeleer/oh-my-posh
