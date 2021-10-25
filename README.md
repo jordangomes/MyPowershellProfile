@@ -1,0 +1,2 @@
+# MyPowershellProfile
+ Rice gang
